@@ -1,1 +1,1 @@
-# Single-person-household-residence-recommendation
+# 2022 응용통계학과 분석 공모전 - 1인가구 거주지 추천 (Change:on)
